@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.AssemblyReference.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Form1.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Properties.Resources.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.GenerateResource.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.CoreCompileInputs.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
